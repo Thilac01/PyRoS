@@ -1,9 +1,9 @@
 # PyRoS
 
 
-# Try to Make entirely Zero Vibe coded  PyROS
+Try to Make entirely Zero Vibe coded  PyROS
 
-##Beyond ROS 2: Building a Robotics Communication Framework from Scratch Using Python
+# Beyond ROS 2: Building a Robotics Communication Framework from Scratch Using Python
 
 Exploring robotics middleware, distributed systems and publisher–subscriber communication from first principles.
 
