@@ -22,7 +22,6 @@ Instead of simply learning how to use ROS 2, why not try to understand it by bui
 That question led me to start developing a lightweight robotics communication framework entirely in Python, beginning with the most fundamental building blocks: sockets, networking, message serialization and inter-process communication.
 The goal is not to reinvent ROS 2, but to understand the engineering principles that make it possible.
 
-![Uploading image.png…]()
-
+<img width="1536" height="1024" alt="PyROS கட்டமைப்பு வரைபடம்" src="https://github.com/user-attachments/assets/3b18ef60-0212-49c4-a2d1-87fd63fe9e8c" />
 
 
